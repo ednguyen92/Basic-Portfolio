@@ -12,9 +12,9 @@ body {
     border-bottom: solid;
     border-width: medium;
     border-color: #dddddd;
-    width: 100%;
+    width: 960px;
     padding: 23px;
-    padding-left: 1360px;    
+    padding-left: 1065px;    
 }
 
 a {
@@ -29,7 +29,7 @@ a {
     padding: 20px;
     position: absolute;
     top: -25px;
-    left: 615px;
+    left: 315px;
 }
 
 .container {
@@ -123,6 +123,92 @@ h2 {
     padding: 10px 25px 10px 25px;
 }
 
+.rpg {
+    float: left;
+    border-style: solid;
+    border-width: thin;
+    border-color: #666;
+
+}
+.portfolio_rpg {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
+    padding: 20px;
+    position:absolute;
+    left: 21px;
+    top: 230px;
+
+}
+
+.virtualreality {
+    float: right;
+}
+
+.portfolio_virtualreality {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    left: 340px;
+    top: 230px;
+}
+
+.musicapps {
+    clear: both;
+    float: left;
+    padding-top: 30px;
+
+}
+
+.portfolio_musicapps {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    left: 21px;
+    top: 464px;
+}
+
+.mobileapps {
+    float: right;
+    padding-top: 30px;
+
+}
+
+.portfolio_mobileapps {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 251px;
+    padding: 20px;
+    position: absolute;
+    top: 464px;
+    left:339px;
+}
+
+.robotics {
+    clear: both;
+    float: left;
+    padding-top: 30px;
+}
+
+.portfolio_robotics {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    left: 21px;
+
+}
+
 #footer {
     clear: both;
     width: 100%;
@@ -135,6 +221,5 @@ h2 {
     text-align: center;
     overflow: auto;  
     padding: 20px;
-    position: fixed;
     bottom: 0;  
 }
