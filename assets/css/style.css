@@ -51,6 +51,19 @@ a {
     float: left;   
 }
 
+.portfolio_box {
+    background: #ffffff;
+    border-style: solid;
+    border-width: medium;
+    border-color: #dddddd;
+    width: 610px;
+    padding: 20px;
+    margin: 0 auto;
+    position: relative;
+    float: left; 
+    height: 850px;
+}
+
 h2 {
     color: #4aaaa5;
     border-bottom-style: solid;
@@ -202,10 +215,11 @@ h2 {
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
-    width: 250px;
+    width: 252px;
     padding: 20px;
     position: absolute;
-    left: 21px;
+    left: 20px;
+    top: 704px;
 
 }
 
@@ -219,7 +233,9 @@ h2 {
     border-width: 10px;
     border-color: #4aaaa5;
     text-align: center;
-    overflow: auto;  
+    overflow: auto; 
+    position: fixed;
     padding: 20px;
+    margin-top: 20px;
     bottom: 0;  
 }
