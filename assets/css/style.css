@@ -26,6 +26,7 @@ body {
     height: 27px;
     padding: 20px;
     padding-top: 40px;
+
 }
 
 a {
@@ -74,7 +75,7 @@ a {
     margin: 0 auto;
     position: relative;
     float: left; 
-    height: 850px;
+    height: 830px;
 }
 
 h2 {
