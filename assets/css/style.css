@@ -195,7 +195,7 @@ h2 {
     margin: 0 auto;
     position: relative;
     float: left; 
-    height: 780px;
+    height: 820px;
 }
 
 /* Images Used in Portfolio Box */
@@ -344,7 +344,7 @@ h2 {
     overflow: auto; 
     position: fixed;
     padding: 20px;
-    margin-top: 20px;
+    margin: 0 auto;
     bottom: 0;  
 }
 
